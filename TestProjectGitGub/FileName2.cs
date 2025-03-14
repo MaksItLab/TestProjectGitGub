@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestProjectGitGub
 {
-    internal class Program
+    internal class FileName2
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello");
-        }
     }
 }

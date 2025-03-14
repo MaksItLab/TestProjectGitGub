@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace TestProjectGitGub
 {
-    internal class Program
+    internal class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello");
-        }
+        //65465465464
+        //65465465464
+        //65465465464
+        //65465465464
+        //65465465464
+        //65465465464
     }
 }
